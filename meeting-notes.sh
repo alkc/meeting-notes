@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# meeting-notes: v 1.0  2018/03/06 12:02:00 dcat
+# meeting-notes: v 1.0  2018/03/06
 # Author: Alexander Koc <alkc@protonmail.com>
 # http://github.com/alkc/meeting-notes
 #
